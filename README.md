@@ -6,4 +6,5 @@ P.S.: The code logic is universal but some libraries and function names may need
 
 ### [Video demonstration link](https://youtu.be/vFmOYmPdaM0)
 
+### Schematic:
 ### ![Schematic](/Schematic.png)
